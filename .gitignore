@@ -1,2 +1,4 @@
-__pycache__/
+*.cpp
+/intro_env
 .env
+__pycache__/
